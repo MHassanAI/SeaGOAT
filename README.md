@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-
 <h1>
   <p align="center">
     <img src="assets/logo-small.png" alt="Logo" width="200"/>
