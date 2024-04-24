@@ -1,6 +1,5 @@
 <h1>
   <p align="center">
-    <img src="assets/logo-small.png" alt="Logo" width="200"/>
     <font size="8"><b>SeaGOAT</b></font>
   </p>
 </h1>
